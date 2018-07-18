@@ -1,5 +1,8 @@
 source 'https://rubygems.org'
 
+# Gem Adm
+gem 'rails_admin'
+
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.1.6'
